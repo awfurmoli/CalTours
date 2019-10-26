@@ -11,7 +11,7 @@ Run `npm install` to install all the dependencies for React side and Sass side o
 Then
 
 ### `npm start` for the react side , and `npm run compile:sass` to compile the Sass file into the CSS.
-The Sass will watch for changed to any of the style components and recompile a new Styleshet upon save.
+The Sass will watch for changes to any of the style components and recompile a new Styleshet upon save.
 
 
 
